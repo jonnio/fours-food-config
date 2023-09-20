@@ -1,1 +1,1 @@
-{"f-steps": 24000, "r-steps": 2000, "ramp": 150, "ramp-start": 5000}
+{"f-steps": 24000, "r-steps": 2000, "ramp": 150, "ramp-start": 5000, "step-interval": 655}
